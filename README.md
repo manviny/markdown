@@ -1,2 +1,2 @@
-mi primer texto
-segundo parrafo
+# mi primer texto
+## segundo parrafo
